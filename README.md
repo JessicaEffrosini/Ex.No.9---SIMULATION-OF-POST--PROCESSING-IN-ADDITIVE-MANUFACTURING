@@ -1,6 +1,6 @@
-# Ex.No.  - SIMULATION OF POST PROCESSING IN ADDITIVE MANUFACTURING
+![Screenshot 2025-04-24 160304](https://github.com/user-attachments/assets/7516ba73-f917-40e6-8a7a-c6a908d5177d)![Screenshot 2025-04-24 160334](https://github.com/user-attachments/assets/077a8f0a-b671-42a1-aee0-fe53c947ad9c)# Ex.No.  - SIMULATION OF POST PROCESSING IN ADDITIVE MANUFACTURING
 
-### DATE: 
+### DATE:24.04.25 
 
 ## AIM: 
 ### To simulate the post processing of 3d printed parts via support Removal, UV Curing & Heat Treatment.
@@ -47,8 +47,15 @@
 
 ## Output:
 
-### Name:
-### Register Number:
+![Screenshot 2025-04-24 160304](https://github.com/user-attachments/assets/76725c5b-da74-4a78-829d-812bb4ffe82b)
+
+![Screenshot 2025-04-24 160334](https://github.com/user-attachments/assets/0f2b7500-cf54-461a-8d0d-484233ff307e)
+
+
+![Screenshot 2025-04-24 160516](https://github.com/user-attachments/assets/78d83818-a33f-4fc9-9ef8-24230f40a89f)
+
+### Name:L Jessica Effrosini
+### Register Number:212224110026
 
 ## Result: 
 ### Thus the simulation on the Postprocessing in additive manufacturing is completed.
